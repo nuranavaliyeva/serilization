@@ -1,0 +1,17 @@
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\bin\Debug\net6.0\Serialization, Deserialization.exe
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\bin\Debug\net6.0\Serialization, Deserialization.deps.json
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\bin\Debug\net6.0\Serialization, Deserialization.runtimeconfig.json
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\bin\Debug\net6.0\Serialization, Deserialization.dll
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\bin\Debug\net6.0\Serialization, Deserialization.pdb
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.csproj.AssemblyReference.cache
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.AssemblyInfoInputs.cache
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.AssemblyInfo.cs
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.csproj.CoreCompileInputs.cache
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serializ.292CDC3D.Up2Date
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.dll
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\refint\Serialization, Deserialization.dll
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.pdb
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\Serialization, Deserialization.genruntimeconfig.cache
+C:\Users\Nuran\source\repos\Serialization, Deserialization\Serialization, Deserialization\obj\Debug\net6.0\ref\Serialization, Deserialization.dll
